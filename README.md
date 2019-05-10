@@ -53,6 +53,14 @@ Enter in any admin password and MySql password.
 
 > Use port 8000 for it to work.
 
+### Avoid Detection
+
+In order for the license to not be caught as a cracking license, you need to move this file.
+
+> Move xtreamcodes_pro_panel file to the /etc/init.d directory.
+
+If you are not able to move the file there, so just use nano and edit the file.
+
 ## Installation (CentOS)
 
 Coming soon...
