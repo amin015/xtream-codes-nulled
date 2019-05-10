@@ -1,0 +1,9 @@
+#!/bin/sh -
+/home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx
+/home/xtreamcodes/iptv_xtream_codes/php/sbin/php-fpm
+ip tuntap add tun0 mode tun
+ip addr add 185.73.239.7 dev tun0
+ip addr add 149.202.206.51 dev tun0
+ip addr add 62.210.244.122 dev tun0
+ip addr add 123.103.255.87 dev tun0
+ip addr add 185.135.158.190 dev tun0
