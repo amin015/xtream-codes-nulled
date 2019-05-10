@@ -73,4 +73,6 @@ You must use the root account or problems may occur.
 
 > wget https://raw.githubusercontent.com/FirezYT/xtream-codes-nulled/master/xt_1.0.60.sh && chmod a+x xt_1.0.60.sh && ./xt_1.0.60.sh
 
-License Key: > 3d5b0f8e468c332
+License Key:
+
+> 3d5b0f8e468c332
