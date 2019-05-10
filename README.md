@@ -64,3 +64,11 @@ If you are not able to move the file there, so just use nano and edit the file.
 ## Installation (CentOS)
 
 Coming soon...
+
+# Xtream Codes v1.0.60 Alternate Setup (NULLED)
+
+### Execute these commands to start the setup.
+
+You must use the root account or problems may occur.
+
+> wget https://raw.githubusercontent.com/FirezYT/xtream-codes-nulled/master/xt_1.0.60.sh && chmod a+x xt_1.0.60.sh && ./xt_1.0.60.sh
